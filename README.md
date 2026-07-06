@@ -40,7 +40,7 @@ photo-editor/
 
 ## ▶️ How to Run the Project
 Step 1: Install dependencies
-```bash` ``` ` 
+```bash` ``` `
 pip install -r requirements.txt
 Step 2: Run the application
 streamlit run app.py
