@@ -226,7 +226,7 @@ www.linkedin.com/in/greeshmareddy08
 
 **📝 Project Post**
 
-Add your LinkedIn project post URL here.
+https://www.linkedin.com/posts/greeshmareddy08_python-opencv-computervision-ugcPost-7479880122980904960-8zGl/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEeCZ9EBpX6bZmiTR9ZNEiaEVYG6ngrUTLc
 
 ---
 
