@@ -70,7 +70,8 @@ Penumalli Greeshma
 B.Tech in AI & Data Science | Data Analytics & Machine Learning Enthusiast  
 Focus: End-to-End ML Systems | Computer Vision | Interactive Applications  
 
-👉 Live App: [https://photo-editor-with-open-cv-66m4h9dy2wqjkpxl5laenk.streamlit.app/](https://photo-editor-with-open-cv-66m4h9dy2wqjkpxl5laenk.streamlit.app/)  
+👉 Live App: (https://photo-editor-with-open-cv-66m4h9dy2wqjkpxl5laenk.streamlit.app/)  
 👉 LinkedIn Post Link: (add your post link here)
+
    
 
