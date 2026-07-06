@@ -40,7 +40,6 @@ photo-editor/
 
 ## ▶️ How to Run the Project
 Step 1: Install dependencies  
-```bash
 pip install -r requirements.txt
 Step 2: Run the application
 streamlit run app.py
@@ -66,7 +65,7 @@ streamlit run app.py
 ## 👩‍💻 Author
 Penumalli Greeshma  
 B.Tech in AI & Data Science | Data Analytics & Machine Learning Enthusiast  
-Focus: End-to-End ML Systems | Computer Vision | Interactive 
+Focus: End-to-End ML Systems | Computer Vision | Interactive Applications  
 
 👉 Live App: (https://photo-editor-with-open-cv-66m4h9dy2wqjkpxl5laenk.streamlit.app/)  
 👉 LinkedIn Post Link: (add your post link here)
