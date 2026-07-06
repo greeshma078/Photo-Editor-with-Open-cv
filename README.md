@@ -45,28 +45,32 @@ pip install -r requirements.txt
 Step 2: Run the application
 streamlit run app.py
 
-----
+---
 
- ## 📈 Business Impact
--Simplifies image editing for non-technical users
--Provides a lightweight alternative to heavy desktop tools
--Demonstrates practical computer vision applications
--Serves as a portfolio-ready project for showcasing OpenCV + Streamlit integration
+**📈 Business Impact**
 
-----
+- Simplifies image editing for non-technical users  
+- Provides a lightweight alternative to heavy desktop tools  
+- Demonstrates practical computer vision applications  
+- Serves as a portfolio-ready project for showcasing OpenCV + Streamlit integration  
 
-## 🔮 Future Enhancements
-- Face detection & background replacement
--AI-powered enhancement filters
--Real-time webcam capture & editing
--Cloud deployment for public access
+---
 
-----
+**🔮 Future Enhancements**
 
-## 👩‍💻 Author
+- Face detection & background replacement  
+- AI-powered enhancement filters  
+- Real-time webcam capture & editing  
+- Cloud deployment for public access  
+
+---
+
+**👩‍💻 Author**  
 Penumalli Greeshma  
-B.Tech in AI & Data Science | Data Analytics & Machine Learning Enthusiast
-Focus: End-to-End ML Systems | Computer Vision | Interactive Applications
-👉 Live App : https://photo-editor-with-open-cv-66m4h9dy2wqjkpxl5laenk.streamlit.app/ 
-👉 LinkedIn Post Link :   
+B.Tech in AI & Data Science | Data Analytics & Machine Learning Enthusiast  
+Focus: End-to-End ML Systems | Computer Vision | Interactive Applications  
+
+👉 Live App: [https://photo-editor-with-open-cv-66m4h9dy2wqjkpxl5laenk.streamlit.app/](https://photo-editor-with-open-cv-66m4h9dy2wqjkpxl5laenk.streamlit.app/)  
+👉 LinkedIn Post Link: (add your post link here)
+   
 
