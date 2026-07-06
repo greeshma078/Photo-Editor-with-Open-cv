@@ -47,8 +47,7 @@ streamlit run app.py
 
 ---
 
-**📈 Business Impact**
-
+## 📈 Business Impact
 - Simplifies image editing for non-technical users  
 - Provides a lightweight alternative to heavy desktop tools  
 - Demonstrates practical computer vision applications  
@@ -56,8 +55,7 @@ streamlit run app.py
 
 ---
 
-**🔮 Future Enhancements**
-
+## 🔮 Future Enhancements
 - Face detection & background replacement  
 - AI-powered enhancement filters  
 - Real-time webcam capture & editing  
@@ -65,10 +63,10 @@ streamlit run app.py
 
 ---
 
-**👩‍💻 Author**  
+## 👩‍💻 Author
 Penumalli Greeshma  
 B.Tech in AI & Data Science | Data Analytics & Machine Learning Enthusiast  
-Focus: End-to-End ML Systems | Computer Vision | Interactive Applications  
+Focus: End-to-End ML Systems | Computer Vision | Interactive 
 
 👉 Live App: (https://photo-editor-with-open-cv-66m4h9dy2wqjkpxl5laenk.streamlit.app/)  
 👉 LinkedIn Post Link: (add your post link here)
