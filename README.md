@@ -222,7 +222,7 @@ https://photo-editor-with-open-cv-66m4h9dy2wqjkpxl5laenk.streamlit.app/
 
 **💼 LinkedIn**
 
-Add your LinkedIn profile URL here.
+www.linkedin.com/in/greeshmareddy08
 
 **📝 Project Post**
 
